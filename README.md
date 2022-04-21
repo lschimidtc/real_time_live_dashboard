@@ -9,5 +9,5 @@ This app was created using python and the open-source python app framework, Stre
 ### By: [Lucas Schimidt](https://linkedin.com/in/lucasschimidtc), 2022 
 
 ## Examples:
-![alt text](https://github.com/lschimidtc/NFL-Receiver-Dashboard/blob/main/src/img.png)
-![alt text](https://github.com/lschimidtc/NFL-Receiver-Dashboard/blob/main/src/img2.png)
+![alt text](https://github.com/lschimidtc/Real-time-live-dashboard/blob/main/src/img.png)
+![alt text](https://github.com/lschimidtc/Real-time-live-dashboard/blob/main/src/img2.png)
